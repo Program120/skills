@@ -1,3 +1,6 @@
 [submodule "skills/interactive-diagram"]
 	path = skills/interactive-diagram
 	url = https://github.com/Program120/interactive-diagram.git
+[submodule "skills/feishu-md-sync"]
+	path = skills/feishu-md-sync
+	url = git@github.com:Program120/feishu-md-sync.git
